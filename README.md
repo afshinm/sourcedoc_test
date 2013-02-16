@@ -1,3 +1,3 @@
 sourcedoc_test
 ==============
-Hello world!
+Hello world
