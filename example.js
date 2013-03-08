@@ -4,8 +4,9 @@
  * @param name {String} Item name
  * @param price {Number} Item price
  * @param quantity {Number} Item quantity (the number available to buy)
+ * @param newParam {Number} New parameter, just for test!
  */
-Store.Item = function (name, price, quantity) {
+Store.Item = function (name, price, quantity, newParam) {
   
     var boo = 1;
     /**
