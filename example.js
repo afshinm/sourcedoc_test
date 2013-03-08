@@ -6,6 +6,8 @@
  * @param quantity {Number} Item quantity (the number available to buy)
  */
 Store.Item = function (name, price, quantity) {
+  
+    var boo = 1;
     /**
      * @property name
      * @type String
