@@ -6,8 +6,9 @@
  * @param quantity {Number} Item quantity (the number available to buy)
  * @param newParam {Number} New parameter, just for test!
  * @param sell {Number} A new parameter.
+ * @param parsa {String} Hellllooo
  */
-Store.Item = function (name, price, quantity, newParam, sell) {
+Store.Item = function (name, price, quantity, newParam, sell, parsa) {
   
     var boo = 1;
     /**
