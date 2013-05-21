@@ -10,7 +10,6 @@
  */
 Store.Item = function (name, price, quantity, newParam, sell, parsa) {
   
-    var boo = 1;
     /**
      * @property name
      * @type String
